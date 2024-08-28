@@ -107,9 +107,8 @@ Designer와 Developer를 이어주는 사이드(Side) 프로젝트 플랫폼
 [요구사항 정의 보기](https://quark-smile-890.notion.site/af1a856a1abc4164a9efece3bf72cc57?v=8e30938bc7664893bed667c194fde673&pvs=4)
 
 ## ERD
-<img alt="ERD" src="https://cdn.discordapp.com/attachments/1254677623242493975/1275450348819189860/2024-08-20_9.14.53.png?ex=66c5ef33&is=66c49db3&hm=15effec0a39ab3bc0c10894372e3646bf8de8e7b93962ac657719680a6e8d0ad&">
+<img width="542" alt="스크린샷 2024-08-20 오후 9 14 53" src="https://github.com/user-attachments/assets/f16ee83b-15f6-41e1-8da4-443b36aa02bc">
 
-<!-- <h2>Wire Frame</h2> -->
 
 ## 이슈 관리
 [이슈 관리 보기](https://quark-smile-890.notion.site/01f6e9a772864d789a2aa5f35798e92b?v=8288992a047b499f853c24bfc5f2c1cd&pvs=4)
